@@ -1,0 +1,2 @@
+A number when divided by 5 leaves a remainder 3. What is the remainder when the square of the same number is divided by 5? </br> एक संख्या को 5 से विभाजित करने पर 3 शेष बचता है. उसी संख्या के वर्ग को 5 से विभाजित करने पर क्या शेष बचेगा ?
+@1@2@3@4@4@ If the quotient in the first case be x. </br> Then, number = 5x + 3 </br> On squaring, the number </br> = (5x + 3)<sup>2</sup> </br> = 25x<sup>2</sup> + 30x + 9 </br> On dividing by 5, remainder = 9 – 5 = 4

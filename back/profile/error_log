@@ -1,0 +1,12 @@
+[18-Mar-2018 08:07:59 America/Chicago] PHP Warning:  mkdir(): File exists in /home4/deepgu5f/public_html/testseries/back/profile/subjects.php on line 26
+[18-Mar-2018 08:10:19 America/Chicago] PHP Warning:  mkdir(): File exists in /home4/deepgu5f/public_html/testseries/back/profile/subjects.php on line 26
+[18-Mar-2018 09:39:35 America/Chicago] PHP Warning:  fopen(../../assets/questions/subjects/general knowledge and general awareness/1): failed to open stream: No such file or directory in /home4/deepgu5f/public_html/testseries/back/profile/add_question.php on line 25
+[18-Mar-2018 09:39:35 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/deepgu5f/public_html/testseries/back/profile/add_question.php on line 27
+[18-Mar-2018 09:39:35 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/deepgu5f/public_html/testseries/back/profile/add_question.php on line 28
+[18-Mar-2018 12:46:58 America/Chicago] PHP Warning:  fopen(../../assets/questions/subjects/general knowledge and general awareness/2): failed to open stream: No such file or directory in /home4/deepgu5f/public_html/testseries/back/profile/add_question.php on line 25
+[18-Mar-2018 12:46:58 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/deepgu5f/public_html/testseries/back/profile/add_question.php on line 27
+[18-Mar-2018 12:46:58 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/deepgu5f/public_html/testseries/back/profile/add_question.php on line 28
+[18-Mar-2018 12:48:56 America/Chicago] PHP Warning:  fopen(../../assets/questions/subjects/hindi/1): failed to open stream: No such file or directory in /home4/deepgu5f/public_html/testseries/back/profile/add_question.php on line 25
+[18-Mar-2018 12:48:56 America/Chicago] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home4/deepgu5f/public_html/testseries/back/profile/add_question.php on line 27
+[18-Mar-2018 12:48:56 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home4/deepgu5f/public_html/testseries/back/profile/add_question.php on line 28
+[04-May-2018 21:24:54 America/Chicago] PHP Warning:  mkdir(): File exists in /home4/deepgu5f/public_html/testseries/back/profile/subjects.php on line 26

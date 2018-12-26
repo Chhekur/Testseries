@@ -1,0 +1,2 @@
+A gets more marks than B but less than C. D gets less marks than E but more than A. If C gets less than D then who amongst A, B, C, D, E gets the highest marks? </br> A को B से अधिक अंक प्राप्त होते हैं लेकिन C से कम प्राप्त होते हैं. D को E से कम अंक मिलते हैं लेकिन A से अधिक प्राप्त होते हैं. यदि C को D से कम अंक मिलते हैं तो A, B, C, D, E में से किसे सबसे अधिक अंक प्राप्त होते हैं? 
+@C@D@E@B@3@E>D>C>A>B

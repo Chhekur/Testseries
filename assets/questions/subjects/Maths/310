@@ -1,0 +1,47 @@
+Study the following table carefully to answer these questions. </br> नीचे दिए गए प्रश्नों का उत्तर देने के लिए तालिका का ध्यानपूर्वक अध्ययन करे?
+<table style="width:100%">
+  <tr>
+    <th>College &#8594;</br>Year &#8595;</th>
+    <td>A</td>
+    <td>B</td>
+    <td>C</td>
+    <td>D</td>
+    <td>E</td>
+  </tr>
+  <tr>
+    <td>2007</td>
+    <td>550</td>
+    <td>430</td>
+    <td>600</td>
+    <td>420</td>
+    <td>300</td></tr>
+    <tr>
+    <td>2008</td>
+    <td>400</td>
+    <td>450</td>
+    <td>300</td>
+    <td>620</td>
+    <td>520</td></tr>
+    <tr>
+    <td>2009</td>
+    <td>1000</td>
+    <td>900</td>
+    <td>700</td>
+    <td>640</td>
+    <td>520</td></tr>
+    <tr>
+    <td>2010</td>
+    <td>850</td>
+    <td>450</td>
+    <td>700</td>
+    <td>650</td>
+    <td>520</td></tr>
+    <tr>
+    <td>2011</td>
+    <td>800</td>
+    <td>650</td>
+    <td>850</td>
+    <td>420</td>
+    <td>850</td></tr>
+</table></br> In 2008, from all the colleges together overall 70% of the students got enrolled for computer course. How many students got enrolled for the course? </br> 2008 में, सभी कॉलेज को मिलाकर 70% छात्र कंप्यूटर कोर्स में दाखिला लेता है. कोर्स में कितने छात्र दाखिला लेते है?
+@1702@1593@1603@1105@3@

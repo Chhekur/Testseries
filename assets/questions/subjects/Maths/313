@@ -1,0 +1,47 @@
+Study the following table carefully to answer these questions. </br> नीचे दिए गए प्रश्नों का उत्तर देने के लिए तालिका का ध्यानपूर्वक अध्ययन करे?
+<table style="width:100%">
+  <tr>
+    <th>College &#8594;</br>Year &#8595;</th>
+    <td>A</td>
+    <td>B</td>
+    <td>C</td>
+    <td>D</td>
+    <td>E</td>
+  </tr>
+  <tr>
+    <td>2007</td>
+    <td>550</td>
+    <td>430</td>
+    <td>600</td>
+    <td>420</td>
+    <td>300</td></tr>
+    <tr>
+    <td>2008</td>
+    <td>400</td>
+    <td>450</td>
+    <td>300</td>
+    <td>620</td>
+    <td>520</td></tr>
+    <tr>
+    <td>2009</td>
+    <td>1000</td>
+    <td>900</td>
+    <td>700</td>
+    <td>640</td>
+    <td>520</td></tr>
+    <tr>
+    <td>2010</td>
+    <td>850</td>
+    <td>450</td>
+    <td>700</td>
+    <td>650</td>
+    <td>520</td></tr>
+    <tr>
+    <td>2011</td>
+    <td>800</td>
+    <td>650</td>
+    <td>850</td>
+    <td>420</td>
+    <td>850</td></tr>
+</table>In 2010, from all colleges together 10% of the students enrolled went abroad. How many students went abroad? </br> 2010 में सभी कॉलेज को मिलाकर कुल छात्रो का 10% विदेश चले गए? कितने छात्र विदेश गए थे?
+@409@429@609@309@4@Total number of students in the year </br> 2010 from all the colleges = 3090 </br>  Reqd. number of students </br> = 10% of 3090 = 309
